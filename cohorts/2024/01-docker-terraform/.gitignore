@@ -1,0 +1,4 @@
+green_tripdata_2019-09.csv.gz
+taxi+_zone_lookup.csv
+variables.tf
+./data/*
